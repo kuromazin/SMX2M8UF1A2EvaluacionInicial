@@ -1,22 +1,32 @@
 # Evaluación Inicial
-1.¿Qué es una página web?
+#### 1.¿Qué es una página web?
 
 Respuesta.
 
 
-2.¿Qué es un sitio web?
+#### 2.¿Qué es un sitio web?
 
 Respuesta.
 
 
-3.¿Qué es una aplicación web?
+#### 3.¿Qué es una aplicación web?
 
 Respuesta.
 
 
-4.¿Qué es una herramienta ofimática?
+#### 4.¿Qué es una herramienta ofimática?
 
 Respuesta.
 
 
-5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
+#### 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
+
+
+|Aplicaciones |Visto |
+|----------|:----------:|
+|Google Docs |✅|
+|Google Slides |✅|
+|Google Sheets |✅|
+|Google Calendar |📅|
+|Google Meet |💻|
+|... |...|
