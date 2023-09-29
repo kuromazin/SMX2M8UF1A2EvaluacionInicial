@@ -59,7 +59,7 @@
 <font color="red">És un dels llenguatges més importants que sutilitzen per ordenar les instruccions referents a laparença dun lloc i presentar els continguts duna pàgina de forma atractiva.</font> 
 
 
-#### 8.lujo de trabajo (navegador, petición, servidor y respuesta):
+#### 8.Lujo de trabajo (navegador, petición, servidor y respuesta):
 
 
 ![Imagen](https://github.com/kuromazin/SMX2M8UF1A2EvaluacionInicial/blob/main/Flujo%20de%20trabajo%20imagen.jpg)
