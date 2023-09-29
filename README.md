@@ -52,3 +52,14 @@ Respuesta.
 </body>
 </html>
 ```
+
+
+#### 7.¿Qué es CSS?
+
+Respuesta.
+
+
+#### 8.lujo de trabajo (navegador, petición, servidor y respuesta):
+
+
+![Imagen](https://github.com/kuromazin/SMX2M8UF1A2EvaluacionInicial/blob/main/Flujo%20de%20trabajo%20imagen.jpg)
